@@ -7,7 +7,7 @@ The server will be started with the command
 ```
 server: start()
 ```
-after compiling the server module. 
+after compiling the server module in the Erlang VM. 
 
 The client will start with the command 
 ```
