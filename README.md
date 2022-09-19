@@ -11,6 +11,6 @@ after compiling the server module in the Erlang VM.
 
 The client will start with the command 
 ```
-./cliente 127.0.0.1 port
+./cliente 127.0.0.1 [port]
 ``` 
-(on the server the constant port is defined with 1234), after having compiled the program with the command ```make client```
+(The port constant is defined with 1234), after having compiled the program with the command ```make client```
